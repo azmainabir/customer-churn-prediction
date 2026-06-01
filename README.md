@@ -13,7 +13,7 @@
 
 ## 🔴 Live Demo
 
-👉 **[View Live App](#)** ← *(update after deployment)*
+👉 **[View Live App](https://churn-predictor-abir.streamlit.app)**
 
 ---
 
